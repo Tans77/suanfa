@@ -26,5 +26,5 @@ func main()  {
 	CreateNode(head,10)
 	PrintNode("原本:" ,head)
 	Reverse(head)
-	PrintNode("现在:" ,head)
+	PrintNode("现在 :" ,head)
 }
