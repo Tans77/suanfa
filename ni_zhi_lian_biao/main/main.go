@@ -27,6 +27,4 @@ func main()  {
 	PrintNode("原本:" ,head)
 	Reverse(head)
 	PrintNode("现在:" ,head)
-
-
 }
